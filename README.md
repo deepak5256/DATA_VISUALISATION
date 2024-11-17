@@ -1,6 +1,6 @@
 
 
-## ** Data Visualization**
+##  Data Visualization
 
 This Maven-based Java project provides interactive data visualization features, enabling users to create and analyze graphical representations of datasets.
 
